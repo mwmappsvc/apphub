@@ -1,14 +1,49 @@
 {
-  "app": {
-    "name": "RTDOffline",
-    "description": "RTD Offline APK with a basic database.",
-    "file_name": "rtdoffline-v2.6.0.apk",
-    "version": "2.6.0",
-    "device_type": "Phone",
-    "revision_notes": "Initial release with basic database",
-    "download_urls": {
-      "primary": "https://github.com/mwmappsvc/apphub/raw/6a0cb42e120f4caac4d42285816a8ec4da0c55be/rtdoffline-v2.6.0.apk",
-      "secondary": "https://backupurl.com/rtdoffline.apk"
+  "apps": [
+    {
+      "name": "RTDOffline",
+      "latest_version": {
+        "version": "2.6.0",
+        "description": "RTD Offline APK with a basic database.",
+        "file_name": "rtdoffline-v2.6.0.apk",
+        "revision_notes": "Initial release with basic database",
+        "download_urls": {
+          "primary": "https://github.com/mwmappsvc/apphub/raw/6a0cb42e120f4caac4d42285816a8ec4da0c55be/rtdoffline-v2.6.0.apk",
+          "secondary": "https://backupurl.com/rtdoffline.apk"
+        }
+      },
+      "old_versions": [
+        {
+          "version": "2.5.0",
+          "file_name": "rtdoffline-v2.5.0.apk",
+          "download_url": "https://example.com/rtdoffline-v2.5.0.apk"
+        },
+        {
+          "version": "2.4.0",
+          "file_name": "rtdoffline-v2.4.0.apk",
+          "download_url": "https://example.com/rtdoffline-v2.4.0.apk"
+        }
+      ]
+    },
+    {
+      "name": "AnotherApp",
+      "latest_version": {
+        "version": "1.2.0",
+        "description": "AnotherApp with new features.",
+        "file_name": "anotherapp-v1.2.0.apk",
+        "revision_notes": "Added new features",
+        "download_urls": {
+          "primary": "https://example.com/anotherapp-v1.2.0.apk",
+          "secondary": "https://example.com/anotherapp-v1.2.0.apk"
+        }
+      },
+      "old_versions": [
+        {
+          "version": "1.1.0",
+          "file_name": "anotherapp-v1.1.0.apk",
+          "download_url": "https://example.com/anotherapp-v1.1.0.apk"
+        }
+      ]
     }
-  }
+  ]
 }
