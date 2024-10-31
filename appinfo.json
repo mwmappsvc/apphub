@@ -7,7 +7,7 @@
     "device_type": "Phone",
     "revision_notes": "Initial release with basic database",
     "download_urls": {
-      "primary": "https://github.com/yourusername/rtdoffline/releases/download/v1.0.0/rtdoffline.apk",
+      "primary": "https://github.com/mwmappsvc/apphub/raw/6a0cb42e120f4caac4d42285816a8ec4da0c55be/rtdoffline-v2.6.0.apk",
       "secondary": "https://backupurl.com/rtdoffline.apk"
     }
   }
