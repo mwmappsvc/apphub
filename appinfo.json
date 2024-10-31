@@ -2,8 +2,8 @@
   "app": {
     "name": "RTDOffline",
     "description": "RTD Offline APK with a basic database.",
-    "file_name": "rtdoffline.apk",
-    "version": "1.0.0",
+    "file_name": "rtdoffline-v2.6.0.apk",
+    "version": "2.6.0",
     "device_type": "Phone",
     "revision_notes": "Initial release with basic database",
     "download_urls": {
