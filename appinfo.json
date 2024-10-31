@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "RTDOffline",
-      "package_name": "com.example.rtdoffline",  // Added this field
+      "package_name": "com.example.rtdoffline",
       "latest_version": {
         "version": "2.6.0",
         "description": "RTD Offline APK with a basic database.",
@@ -28,7 +28,7 @@
     },
     {
       "name": "AnotherApp",
-      "package_name": "com.example.anotherapp",  // Added this field
+      "package_name": "com.example.anotherapp",
       "latest_version": {
         "version": "1.2.0",
         "description": "AnotherApp with new features.",
