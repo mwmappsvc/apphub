@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "RTDOffline",
-      "package_name": "com.example.rtdoffline",
+      "package_name": "com.mwmapps.rtdoffline",
       "version_history": [
         {
           "version": "2.6.0",
