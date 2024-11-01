@@ -3,47 +3,67 @@
     {
       "name": "RTDOffline",
       "package_name": "com.example.rtdoffline",
-      "latest_version": {
-        "version": "2.6.0",
-        "description": "RTD Offline APK with a basic database.",
-        "file_name": "rtdoffline-v2.6.0.apk",
-        "revision_notes": "Initial release with basic database",
-        "download_urls": {
-          "primary": "https://github.com/mwmappsvc/apphub/raw/6a0cb42e120f4caac4d42285816a8ec4da0c55be/rtdoffline-v2.6.0.apk",
-          "secondary": "https://backupurl.com/rtdoffline.apk"
-        }
-      },
-      "old_versions": [
+      "version_history": [
+        {
+          "version": "2.6.0",
+          "description": "RTD Offline APK with a basic database.",
+          "file_name": "rtdoffline-v2.6.0.apk",
+          "revision_notes": "Initial release with basic database",
+          "download_urls": {
+            "primary": "https://github.com/mwmappsvc/apphub/raw/refs/heads/main/rtdoffline-v2.6.0.apk",
+            "secondary": "https://backupurl.com/rtdoffline-v2.6.0.apk"
+          },
+          "is_latest": true
+        },
         {
           "version": "2.5.0",
+          "description": "RTD Offline APK with a basic database.",
           "file_name": "rtdoffline-v2.5.0.apk",
-          "download_url": "https://github.com/mwmappsvc/apphub/raw/refs/heads/main/rtdoffline-v2.5.0.apk"
+          "revision_notes": "Older Version",
+          "download_urls": {
+            "primary": "https://github.com/mwmappsvc/apphub/raw/refs/heads/main/rtdoffline-v2.5.0.apk",
+            "secondary": "https://backupurl.com/rtdoffline-v2.5.0.apk"
+          },
+          "is_latest": false
         },
         {
           "version": "2.4.0",
+          "description": "RTD Offline APK with a basic database.",
           "file_name": "rtdoffline-v2.4.0.apk",
-          "download_url": "https://example.com/rtdoffline-v2.4.0.apk"
+          "revision_notes": "Initial release with basic database",
+          "download_urls": {
+            "primary": "https://example.com/rtdoffline-v2.4.0.apk",
+            "secondary": "https://backupurl.com/rtdoffline-v2.4.0.apk"
+          },
+          "is_latest": false
         }
       ]
     },
     {
       "name": "AnotherApp",
       "package_name": "com.example.anotherapp",
-      "latest_version": {
-        "version": "1.2.0",
-        "description": "AnotherApp with new features.",
-        "file_name": "anotherapp-v1.2.0.apk",
-        "revision_notes": "Added new features",
-        "download_urls": {
-          "primary": "https://example.com/anotherapp-v1.2.0.apk",
-          "secondary": "https://example.com/anotherapp-v1.2.0.apk"
-        }
-      },
-      "old_versions": [
+      "version_history": [
+        {
+          "version": "1.2.0",
+          "description": "AnotherApp with new features.",
+          "file_name": "anotherapp-v1.2.0.apk",
+          "revision_notes": "Added new features",
+          "download_urls": {
+            "primary": "https://example.com/anotherapp-v1.2.0.apk",
+            "secondary": "https://backupurl.com/anotherapp-v1.2.0.apk"
+          },
+          "is_latest": true
+        },
         {
           "version": "1.1.0",
+          "description": "Initial release of AnotherApp.",
           "file_name": "anotherapp-v1.1.0.apk",
-          "download_url": "https://example.com/anotherapp-v1.1.0.apk"
+          "revision_notes": "Initial release features.",
+          "download_urls": {
+            "primary": "https://example.com/anotherapp-v1.1.0.apk",
+            "secondary": "https://backupurl.com/anotherapp-v1.1.0.apk"
+          },
+          "is_latest": false
         }
       ]
     }
