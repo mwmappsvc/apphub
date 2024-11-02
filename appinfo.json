@@ -45,11 +45,11 @@
       "version_history": [
         {
           "version": "1.2.0",
-          "description": "AnotherApp with new features.",
-          "file_name": "anotherapp-v1.2.0.apk",
+          "description": "AppHub Latest Changes",
+          "file_name": "apphub-v1.2.0.apk",
           "revision_notes": "Added new features",
           "download_urls": {
-            "primary": "https://example.com/anotherapp-v1.2.0.apk",
+            "primary": "https://github.com/mwmappsvc/apphub/raw/refs/heads/main/apphub-v1.2.0.apk",
             "secondary": "https://backupurl.com/anotherapp-v1.2.0.apk"
           },
           "is_latest": true
