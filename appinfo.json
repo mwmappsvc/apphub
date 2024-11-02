@@ -44,6 +44,17 @@
       "package_name": "com.mwmapps.apphub",
       "version_history": [
         {
+          "version": "1.3.0",
+          "description": "AppHub Latest Changes",
+          "file_name": "apphub-v1.3.0.apk",
+          "revision_notes": "Added new features",
+          "download_urls": {
+            "primary": "https://github.com/mwmappsvc/apphub/raw/refs/heads/main/apphub-v1.3.0.apk",
+            "secondary": "https://backupurl.com/anotherapp-v1.2.0.apk"
+          },
+          "is_latest": true
+        },
+        {
           "version": "1.2.0",
           "description": "AppHub Latest Changes",
           "file_name": "apphub-v1.2.0.apk",
@@ -52,7 +63,7 @@
             "primary": "https://github.com/mwmappsvc/apphub/raw/refs/heads/main/apphub-v1.2.0.apk",
             "secondary": "https://backupurl.com/anotherapp-v1.2.0.apk"
           },
-          "is_latest": true
+          "is_latest": false
         },
         {
           "version": "1.1.0",
