@@ -40,8 +40,8 @@
       ]
     },
     {
-      "name": "AnotherApp",
-      "package_name": "com.example.anotherapp",
+      "name": "AppHub",
+      "package_name": "com.mwmapps.apphub",
       "version_history": [
         {
           "version": "1.2.0",
@@ -56,11 +56,11 @@
         },
         {
           "version": "1.1.0",
-          "description": "Initial release of AnotherApp.",
-          "file_name": "anotherapp-v1.1.0.apk",
+          "description": "Initial release of AppHub.",
+          "file_name": "apphub-v1.1.0.apk",
           "revision_notes": "Initial release features.",
           "download_urls": {
-            "primary": "https://example.com/anotherapp-v1.1.0.apk",
+            "primary": "https://github.com/mwmappsvc/apphub/raw/refs/heads/main/apphub-v1.1.0.apk",
             "secondary": "https://backupurl.com/anotherapp-v1.1.0.apk"
           },
           "is_latest": false
